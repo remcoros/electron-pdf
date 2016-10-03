@@ -1,5 +1,5 @@
 {
-  "name": "electron-pdf",
+  "name": "electron-pdf-remarkable",
   "version": "0.11.0",
   "description": "A command line tool to generate PDF from URL, HTML or Markdown files",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fraserxu/electron-pdf.git"
+    "url": "https://github.com/remcoros/electron-pdf.git"
   },
   "keywords": [
     "electron",
@@ -21,9 +21,9 @@
   "author": "Fraser Xu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fraserxu/electron-pdf/issues"
+    "url": "https://github.com/remcoros/electron-pdf/issues"
   },
-  "homepage": "https://github.com/fraserxu/electron-pdf",
+  "homepage": "https://github.com/remcoros/electron-pdf",
   "devDependencies": {
     "standard": "^6.0.6"
   },
