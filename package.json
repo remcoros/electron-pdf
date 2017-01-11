@@ -1,6 +1,6 @@
 {
-  "name": "electron-pdf",
-  "version": "0.11.0",
+  "name": "electron-pdf-remarkable",
+  "version": "1.1.1",
   "description": "A command line tool to generate PDF from URL, HTML or Markdown files",
   "main": "lib/index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "html",
     "markdown"
   ],
-  "author": "Fraser Xu, Nate Good",
+  "author": "Remco Ros, Fraser Xu, Nate Good",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/remcoros/electron-pdf/issues"
